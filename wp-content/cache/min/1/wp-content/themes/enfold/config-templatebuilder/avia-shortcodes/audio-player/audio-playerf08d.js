@@ -1,0 +1,6 @@
+(function($){"use strict";var autostarted=!1,container=null,monitorStart=function(container){var play_pause=container.find('.av-player-player-container .mejs-playpause-button');if(play_pause.length==0){setTimeout(function(){monitorStart(container)},200)}
+if(!play_pause.hasClass('mejs-pause')){play_pause.trigger('click')}};$.fn.aviaPlayer=function(options){if(!this.length){return}
+return this.each(function(){var _self={};_self.container=$(this);_self.stopLoop=!1;_self.container.find('audio').on('play',function(){if(_self.stopLoop){this.pause();_self.stopLoop=!1}});if(_self.container.hasClass('avia-playlist-no-loop')){_self.container.find('audio').on('ended',function(){var lastTrack=_self.container.find('.wp-playlist-tracks .wp-playlist-item').last().find('a');try
+{var lastURI=decodeURI(lastTrack.attr('href'));var currentURI=decodeURI(this.currentSrc);if(currentURI===lastURI){_self.stopLoop=!0}}catch(e){_self.stopLoop=!1}})}
+if(_self.container.hasClass('avia-playlist-autoplay')&&!autostarted){if((_self.container.css('display')=='none')||(_self.container.css("visibility")=="hidden")){return}
+autostarted=!0;setTimeout(function(){monitorStart(_self.container,_self)},200)}})}}(jQuery))
