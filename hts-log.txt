@@ -1,0 +1,172 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Feb 2023 12:01:43 at https://temeats.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qir10%e1C1t%Pns2u1%s%uN0%I0p3DaK0c8T16R2H1%kf2A999950000%c10999#L10000000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -%X "{'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}" https://temeats.com/ -O1 "C:\My Web Sites\https___temeats.com_" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:01:43	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+12:01:43	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+12:01:43	Error: 	"Bad Request" (400) at link fonts.googleapis.com/css?family=EB+Garamond&display=auto (from https://temeats.com/)
+12:01:44	Error: 	"Bad Request" (400) at link https://gmpg.org/xfn/11 (from https://temeats.com/)
+12:01:44	Error: 	"Method Not Allowed" (405) at link https://temeats.com/xmlrpc.php (from https://temeats.com/)
+12:01:44	Error: 	"Bad Request" (400) at link https://schema.org/WPHeader (from https://temeats.com/)
+12:01:44	Error: 	"Bad Request" (400) at link https://www.facebook.com/TEMeats (from https://temeats.com/)
+12:01:44	Error: 	"Bad Request" (400) at link https://schema.org/SiteNavigationElement (from https://temeats.com/)
+12:02:23	Warning: 	Link https://temeats.com/?s= not scanned (follow robots meta tag)
+12:02:27	Error: 	"Bad Request" (400) at link https://schema.org/CreativeWork (from https://temeats.com/)
+12:02:30	Error: 	"Bad Request" (400) at link https://schema.org/Blog (from https://temeats.com/)
+12:02:45	Error: 	"Bad Request" (400) at link https://schema.org/ImageObject (from https://temeats.com/)
+12:02:45	Error: 	"Bad Request" (400) at link https://schema.org/Person (from https://temeats.com/)
+12:02:45	Error: 	"Bad Request" (400) at link https://schema.org/dateModified (from https://temeats.com/)
+12:02:45	Error: 	"Bad Request" (400) at link https://schema.org/mainEntityOfPage (from https://temeats.com/)
+12:02:50	Warning: 	link is probably looping, type unknown, aborting: https://www.tumblr.com/widgets/share/tool/preview?shareSource=legacy&canonicalUrl=&url=https%3A%2F%2Ftemeats.com%2Fte-meats-now-offers-value-added-processing-services-for-bacon-and-ham%2F&posttype=link&title=T%26E+Meats+Now+Offers+Value-Added+Processing+Services+for+Bacon+and+Ham&caption=T%26E+Meats+is+now+offering+processing+services+for+creating+certain+smoked+meat+products+%E2%80%93+specifically%2C+ham+and+bacon.%C2%A0+We+do+a+traditional+cure+using+%E2%80%9Cpink+salt%E2%80%9D+%28sodium+nitrite%29%2C+and+we+also+cure+products+using+celery+powder+as+a+source+of+nitrite%2C+which+are+then+labelled+%E2%80%9CUncured%E2%80%9D+Bacon+or+%E2%80%9CUncured%E2%80%9D+Ham%2C+for+obscure+regulatory+reasons.+The+%5B%E2%80%A6%5D&content=https%3A%2F%2Ftemeats.com%2Fte-meats-now-offers-value-added-processing-services-for-bacon-and-ham%2F
+12:04:06	Error: 	"Bad Request" (400) at link https://schema.org/WPFooter (from https://temeats.com/)
+12:04:07	Warning: 	Moved Permanently for www.estlanddesign.com/robots.txt
+12:04:07	Warning: 	Redirected link is identical because of 'URL Hack' option: www.estlanddesign.com/robots.txt and https://www.estlanddesign.com/robots.txt
+12:04:07	Warning: 	Warning moved treated for www.estlanddesign.com/robots.txt (real one is https://www.estlanddesign.com/robots.txt)
+12:04:08	Warning: 	Moved Permanently for www.estlanddesign.com/
+12:04:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.estlanddesign.com/ and https://www.estlanddesign.com/
+12:04:08	Warning: 	File has moved from www.estlanddesign.com/ to https://www.estlanddesign.com/
+12:04:09	Error: 	"Forbidden" (403) at link https://temeats.com/wp-content/themes/enfold/framework/ (from https://temeats.com/)
+12:04:09	Error: 	"Bad Request" (400) at link https://temeats.com/wp-admin/admin-ajax.php (from https://temeats.com/)
+12:04:11	Warning: 	Moved Permanently for https://temeats.com/?p=39
+12:04:11	Warning: 	File has moved from https://temeats.com/?p=39 to https://temeats.com/services/
+12:04:12	Error: 	"Bad Request" (400) at link https://schema.org/BreadcrumbList (from https://temeats.com/services/)
+12:04:12	Warning: 	Link https://temeats.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:05:36	Warning: 	link is probably looping, type unknown, aborting: https://www.tumblr.com/widgets/share/tool/preview?shareSource=legacy&canonicalUrl=&url=https%3A%2F%2Ftemeats.com%2Fannouncing-fhcasas-go-grass-fed-campaign%2F&posttype=link&title=Announcing+FHCASA%E2%80%99s+%E2%80%9CGo+Grass-fed%E2%80%9D+Campaign%21&caption=Future+Harvest+CASA+and+Partners+Receive+USDA-AMS+Farmers+Market+Promotion+Program+Award+to+Launch+%E2%80%9CGo+Grass-fed%2C%E2%80%9D+a+Campaign+to+Boost+Demand+for+Local%2C%C2%A0Grass-fed+Meat%2C+Dairy%2C+and+Other%C2%A0Pasture-Based+Products+%C2%A0+Future+Harvest%2C+Chesapeake+Alliance+for+Sustainable+Agriculture%C2%A0%28FHCASA%29%E2%80%94in+collaboration+with+Mountains-2-Bay+Grazing+Alliance%2C+Central+Farm+Markets%2C+Chesapeake+Bay+Foundation%2C+Edible+DC%2C+Maryland+and+Virginia+Extension%2C+Maryland+Farmers+%5B%E2%80%A6%5D&content=https%3A%2F%2Ftemeats.com%2Fannouncing-fhcasas-go-grass-fed-campaign%2F
+12:06:45	Error: 	"Bad Request" (400) at link https://schema.org/WPSideBar (from https://temeats.com/services/)
+12:06:45	Warning: 	Moved Permanently for https://temeats.com/?p=133
+12:06:45	Warning: 	File has moved from https://temeats.com/?p=133 to https://temeats.com/customer-resources/
+12:06:46	Warning: 	Moved Permanently for https://temeats.com/?p=129
+12:06:46	Warning: 	File has moved from https://temeats.com/?p=129 to https://temeats.com/meats-resources/
+12:06:47	Error: 	"Bad Request" (400) at link animalwelfareapproved.org/ (from https://temeats.com/meats-resources/)
+12:06:47	Warning: 	Moved Permanently for https://temeats.com/?p=127
+12:06:47	Warning: 	File has moved from https://temeats.com/?p=127 to https://temeats.com/meat-industry-information/
+12:06:47	Warning: 	Moved Permanently for www.aamp.com/robots.txt
+12:06:47	Warning: 	Redirected link is identical because of 'URL Hack' option: www.aamp.com/robots.txt and https://www.aamp.com/robots.txt
+12:06:47	Warning: 	Warning moved treated for www.aamp.com/robots.txt (real one is https://www.aamp.com/robots.txt)
+12:06:47	Warning: 	Moved Permanently for www.aamp.com/
+12:06:47	Warning: 	Redirected link is identical because of 'URL Hack' option: www.aamp.com/ and https://www.aamp.com/
+12:06:47	Warning: 	File has moved from www.aamp.com/ to https://www.aamp.com/
+12:07:00	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://integraladjusters.com/robots.txt (from https://temeats.com/meat-industry-information/)
+12:07:00	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://integraladjusters.com/about/ (from https://temeats.com/meat-industry-information/)
+12:07:00	Error: 	"Bad Request" (400) at link www.nichemeatprocessing.org/ (from https://temeats.com/meat-industry-information/)
+12:07:00	Error: 	"Bad Request" (400) at link ncchoices.ces.ncsu.edu/about-ncc-and-partners/ (from https://temeats.com/meat-industry-information/)
+12:07:12	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.vabf.org/robots.txt (from https://temeats.com/meat-industry-information/)
+12:07:12	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link www.vabf.org/ (from https://temeats.com/meat-industry-information/)
+12:07:12	Warning: 	Moved Permanently for www.futureharvestcasa.org/robots.txt
+12:07:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.futureharvestcasa.org/robots.txt and https://www.futureharvestcasa.org/robots.txt
+12:07:12	Warning: 	Warning moved treated for www.futureharvestcasa.org/robots.txt (real one is https://www.futureharvestcasa.org/robots.txt)
+12:07:12	Warning: 	Moved Permanently for www.futureharvestcasa.org/
+12:07:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.futureharvestcasa.org/ and https://www.futureharvestcasa.org/
+12:07:12	Warning: 	File has moved from www.futureharvestcasa.org/ to https://www.futureharvestcasa.org/
+12:07:12	Warning: 	Moved Permanently for www.thebutchersguild.org/robots.txt
+12:07:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.thebutchersguild.org/robots.txt and https://www.thebutchersguild.org/robots.txt
+12:07:12	Warning: 	Warning moved treated for www.thebutchersguild.org/robots.txt (real one is https://www.thebutchersguild.org/robots.txt)
+12:07:12	Warning: 	Moved Permanently for www.thebutchersguild.org/
+12:07:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.thebutchersguild.org/ and https://www.thebutchersguild.org/
+12:07:12	Warning: 	File has moved from www.thebutchersguild.org/ to https://www.thebutchersguild.org/
+12:07:29	Warning: 	Moved Permanently for rangepartners.com/robots.txt
+12:07:29	Warning: 	Redirected link is identical because of 'URL Hack' option: rangepartners.com/robots.txt and https://rangepartners.com/robots.txt
+12:07:29	Warning: 	Warning moved treated for rangepartners.com/robots.txt (real one is https://rangepartners.com/robots.txt)
+12:07:29	Warning: 	Moved Permanently for rangepartners.com/
+12:07:29	Warning: 	Redirected link is identical because of 'URL Hack' option: rangepartners.com/ and https://rangepartners.com/
+12:07:29	Warning: 	File has moved from rangepartners.com/ to https://rangepartners.com/
+12:07:29	Error: 	"Bad Request: invalid header name" (400) at link www.adamdanforth.com/ (from https://temeats.com/meat-industry-information/)
+12:07:30	Warning: 	Moved Permanently for www.ruhlman.com/robots.txt
+12:07:30	Warning: 	Redirected link is identical because of 'URL Hack' option: www.ruhlman.com/robots.txt and https://ruhlman.com/robots.txt
+12:07:30	Warning: 	Warning moved treated for www.ruhlman.com/robots.txt (real one is https://ruhlman.com/robots.txt)
+12:07:30	Warning: 	Moved Permanently for www.ruhlman.com/
+12:07:30	Warning: 	Redirected link is identical because of 'URL Hack' option: www.ruhlman.com/ and https://ruhlman.com/
+12:07:30	Warning: 	File has moved from www.ruhlman.com/ to https://ruhlman.com/
+12:07:30	Warning: 	Moved Permanently for https://temeats.com/?p=88
+12:07:30	Warning: 	File has moved from https://temeats.com/?p=88 to https://temeats.com/local-meats-and-eats/
+12:07:30	Error: 	"Bad Request" (400) at link https://www.thecomputeradmin.com/ (from https://temeats.com/local-meats-and-eats/)
+12:07:30	Warning: 	Moved Permanently for https://temeats.com/?p=111
+12:07:30	Warning: 	File has moved from https://temeats.com/?p=111 to https://temeats.com/our-farmers/
+12:07:31	Warning: 	Moved Permanently for https://temeats.com/?p=70
+12:07:31	Warning: 	File has moved from https://temeats.com/?p=70 to https://temeats.com/about/
+12:07:31	Warning: 	Moved Permanently for https://temeats.com/?p=216
+12:07:31	Warning: 	File has moved from https://temeats.com/?p=216 to https://temeats.com/blog/
+12:07:31	Error: 	"Bad Request" (400) at link https://schema.org/BlogPosting (from https://temeats.com/blog/)
+12:07:34	Warning: 	Link https://temeats.com/category/announcements/?s= not scanned (follow robots meta tag)
+12:07:58	Warning: 	Moved Permanently for https://temeats.com/?p=72
+12:07:58	Warning: 	File has moved from https://temeats.com/?p=72 to https://temeats.com/contact/
+12:07:58	Error: 	"Bad Request" (400) at link https://www.google.com/maps/embed/v1/place?q=256%20Charles%20Street%2C%20Harrisonburg%2C%20VA%2022802%2C%20United%20States&key=AIzaSyCQZV9oy_HY8_asmUsTPOrsWh-GPrvXQ2Q (from https://temeats.com/contact/)
+12:07:58	Warning: 	Moved Permanently for https://temeats.com/?p=250
+12:07:58	Warning: 	File has moved from https://temeats.com/?p=250 to https://temeats.com/schedule-animals-for-processing/
+12:07:58	Warning: 	Moved Permanently for https://temeats.com/?p=4052
+12:07:58	Warning: 	File has moved from https://temeats.com/?p=4052 to https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/
+12:07:58	Warning: 	Link https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/?s= not scanned (follow robots meta tag)
+12:07:58	Error: 	"Bad Request" (400) at link https://www.facebook.com/sharer.php?u=https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/&t=COVID-19%20Unleashes%20Extraordinary%20Demand%20for%20Local%20Meat%20Processing (from https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/)
+12:07:59	Error: 	"Bad Request" (400) at link https://twitter.com/share?text=COVID-19%20Unleashes%20Extraordinary%20Demand%20for%20Local%20Meat%20Processing&url=https://temeats.com/?p=4052 (from https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/)
+12:07:59	Error: 	"Bad Request" (400) at link https://api.whatsapp.com/send?text=https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/ (from https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/)
+12:07:59	Error: 	"Bad Request" (400) at link https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftemeats.com%2Fcovid-19-unleashes-extraordinary-demand-for-local-meat-processing%2F&description=COVID-19%20Unleashes%20Extraordinary%20Demand%20for%20Local%20Meat%20Processing&media= (from https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/)
+12:08:00	Error: 	"Bad Request" (400) at link https://linkedin.com/shareArticle?mini=true&title=COVID-19%20Unleashes%20Extraordinary%20Demand%20for%20Local%20Meat%20Processing&url=https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/ (from https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/)
+12:08:11	Warning: 	Retry after error 504 (Gateway Time-out) at link https://oauth.vk.com/authorize?client_id=-1&redirect_uri=https%3A%2F%2Fvk.com%2Fshare.php%3Furl%3Dhttps%3A%2F%2Ftemeats.com%2Fcovid-19-unleashes-extraordinary-demand-for-local-meat-processing%2F&display=widget (from https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/)
+12:08:12	Error: 	"Bad Request" (400) at link https://reddit.com/submit?url=https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/&title=COVID-19%20Unleashes%20Extraordinary%20Demand%20for%20Local%20Meat%20Processing (from https://temeats.com/covid-19-unleashes-extraordinary-demand-for-local-meat-processing/)
+12:08:12	Warning: 	Moved Permanently for https://temeats.com/?p=828
+12:08:12	Warning: 	File has moved from https://temeats.com/?p=828 to https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/
+12:08:12	Warning: 	Link https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/?s= not scanned (follow robots meta tag)
+12:08:12	Error: 	"Bad Request" (400) at link https://www.facebook.com/sharer.php?u=https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/&t=T%26E%20Meats%20Now%20Offers%20Value-Added%20Processing%20Services%20for%20Bacon%20and%20Ham (from https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/)
+12:08:12	Error: 	"Bad Request" (400) at link https://twitter.com/share?text=T%26E%20Meats%20Now%20Offers%20Value-Added%20Processing%20Services%20for%20Bacon%20and%20Ham&url=https://temeats.com/?p=828 (from https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/)
+12:08:12	Error: 	"Bad Request" (400) at link https://api.whatsapp.com/send?text=https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/ (from https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/)
+12:08:12	Error: 	"Bad Request" (400) at link https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftemeats.com%2Fte-meats-now-offers-value-added-processing-services-for-bacon-and-ham%2F&description=T%26E%20Meats%20Now%20Offers%20Value-Added%20Processing%20Services%20for%20Bacon%20and%20Ham&media= (from https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/)
+12:08:12	Error: 	"Bad Request" (400) at link https://linkedin.com/shareArticle?mini=true&title=T%26E%20Meats%20Now%20Offers%20Value-Added%20Processing%20Services%20for%20Bacon%20and%20Ham&url=https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/ (from https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/)
+12:08:14	Error: 	"Bad Request" (400) at link https://reddit.com/submit?url=https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/&title=T%26E%20Meats%20Now%20Offers%20Value-Added%20Processing%20Services%20for%20Bacon%20and%20Ham (from https://temeats.com/te-meats-now-offers-value-added-processing-services-for-bacon-and-ham/)
+12:08:14	Warning: 	Moved Permanently for https://temeats.com/?p=821
+12:08:14	Warning: 	File has moved from https://temeats.com/?p=821 to https://temeats.com/virginia-farm-to-school-conference-march-14/
+12:08:14	Warning: 	Link https://temeats.com/virginia-farm-to-school-conference-march-14/?s= not scanned (follow robots meta tag)
+12:08:15	Error: 	"Service Temporarily Unavailable" (503) at link https://www.surveymonkey.com/survey-closed/?sm=a_2BdaYowkKK2klbAQ7AclxKFEuJDVzHwj7ucYBxM_2BJZSIwvUiUza_2FQMQlOBiyfHQH1_2FwUzj5F2cdSXYFQ_2FvVXxgotBHDrgYlJ_2BMXkQVyC4to_3D (from https://temeats.com/virginia-farm-to-school-conference-march-14/)
+12:08:15	Error: 	"Bad Request" (400) at link https://www.facebook.com/sharer.php?u=https://temeats.com/virginia-farm-to-school-conference-march-14/&t=Virginia%20Farm%20to%20School%20Conference%20March%2014 (from https://temeats.com/virginia-farm-to-school-conference-march-14/)
+12:08:15	Error: 	"Bad Request" (400) at link https://twitter.com/share?text=Virginia%20Farm%20to%20School%20Conference%20March%2014&url=https://temeats.com/?p=821 (from https://temeats.com/virginia-farm-to-school-conference-march-14/)
+12:08:15	Error: 	"Bad Request" (400) at link https://api.whatsapp.com/send?text=https://temeats.com/virginia-farm-to-school-conference-march-14/ (from https://temeats.com/virginia-farm-to-school-conference-march-14/)
+12:08:15	Error: 	"Bad Request" (400) at link https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftemeats.com%2Fvirginia-farm-to-school-conference-march-14%2F&description=Virginia%20Farm%20to%20School%20Conference%20March%2014&media= (from https://temeats.com/virginia-farm-to-school-conference-march-14/)
+12:08:15	Error: 	"Bad Request" (400) at link https://linkedin.com/shareArticle?mini=true&title=Virginia%20Farm%20to%20School%20Conference%20March%2014&url=https://temeats.com/virginia-farm-to-school-conference-march-14/ (from https://temeats.com/virginia-farm-to-school-conference-march-14/)
+12:08:15	Error: 	"Bad Request" (400) at link https://reddit.com/submit?url=https://temeats.com/virginia-farm-to-school-conference-march-14/&title=Virginia%20Farm%20to%20School%20Conference%20March%2014 (from https://temeats.com/virginia-farm-to-school-conference-march-14/)
+12:08:15	Warning: 	Moved Permanently for https://temeats.com/?p=309
+12:08:15	Warning: 	File has moved from https://temeats.com/?p=309 to https://temeats.com/animal-processing-thank-you/
+12:08:15	Warning: 	Moved Permanently for https://temeats.com/?p=311
+12:08:15	Warning: 	File has moved from https://temeats.com/?p=311 to https://temeats.com/contact-thank-you/
+12:08:15	Warning: 	Moved Permanently for https://temeats.com/?p=1367
+12:08:15	Warning: 	File has moved from https://temeats.com/?p=1367 to https://temeats.com/covid-19-response/
+12:08:15	Warning: 	Moved Permanently for https://temeats.com/?p=252
+12:08:15	Warning: 	File has moved from https://temeats.com/?p=252 to https://temeats.com/get-in-touch/
+12:08:15	Warning: 	Moved Permanently for https://temeats.com/?p=313
+12:08:15	Warning: 	File has moved from https://temeats.com/?p=313 to https://temeats.com/get-in-touch-thank-you/
+12:08:15	Warning: 	Moved Permanently for https://temeats.com/?p=315
+12:08:15	Warning: 	File has moved from https://temeats.com/?p=315 to https://temeats.com/have-questions-thank-you/
+12:08:16	Warning: 	Moved Permanently for https://temeats.com/?p=106
+12:08:16	Warning: 	File has moved from https://temeats.com/?p=106 to https://temeats.com/jl-green-farm/
+12:08:16	Warning: 	Note: due to https://www.jlgreenfarm.com remote robots.txt rules, links beginning with these path will be forbidden: /admin (see in the options to disable this)
+12:08:16	Error: 	"Not Found" (404) at link https://www.jlgreenfarm.com/t-buying-clubs.aspx (from https://temeats.com/jl-green-farm/)
+12:08:16	Error: 	"Not Found" (404) at link https://www.jlgreenfarm.com/t-wholesale.aspx (from https://temeats.com/jl-green-farm/)
+12:08:16	Warning: 	Moved Permanently for www.jlgreenfarm.com/robots.txt
+12:08:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.jlgreenfarm.com/robots.txt and https://www.jlgreenfarm.com/robots.txt
+12:08:16	Warning: 	Warning moved treated for www.jlgreenfarm.com/robots.txt (real one is https://www.jlgreenfarm.com/robots.txt)
+12:08:16	Warning: 	Moved Permanently for www.jlgreenfarm.com/
+12:08:16	Warning: 	Redirected link is identical because of 'URL Hack' option: www.jlgreenfarm.com/ and https://www.jlgreenfarm.com/
+12:08:16	Warning: 	File has moved from www.jlgreenfarm.com/ to https://www.jlgreenfarm.com/
+12:08:16	Error: 	"Not Found" (404) at link https://www.jlgreenfarm.com/t-on-the-farm.aspx (from https://temeats.com/jl-green-farm/)
+12:08:16	Error: 	"Not Found" (404) at link https://www.jlgreenfarm.com/t-blog.aspx (from https://temeats.com/jl-green-farm/)
+12:08:16	Warning: 	Moved Permanently for https://temeats.com/?p=93
+12:08:16	Warning: 	File has moved from https://temeats.com/?p=93 to https://temeats.com/papa-weavers-pork/
+12:08:17	Error: 	"Bad Request" (400) at link www.papaweaver.com/order.htm (from https://temeats.com/papa-weavers-pork/)
+12:08:17	Error: 	"Bad Request" (400) at link www.papaweaver.com/ (from https://temeats.com/papa-weavers-pork/)
+12:08:17	Error: 	"Bad Request" (400) at link www.papaweaver.com/products.htm (from https://temeats.com/papa-weavers-pork/)
+12:08:17	Error: 	"Bad Request" (400) at link www.papaweaver.com/marketinfo.htm (from https://temeats.com/papa-weavers-pork/)
+12:08:17	Error: 	"Bad Request" (400) at link www.papaweaver.com/media.htm (from https://temeats.com/papa-weavers-pork/)
+12:08:17	Warning: 	Moved Permanently for https://temeats.com/?p=108
+12:08:17	Warning: 	File has moved from https://temeats.com/?p=108 to https://temeats.com/polyface-farms/
+12:08:18	Error: 	"Bad Request: invalid header name" (400) at link www.polyfaceyum.com/ (from https://temeats.com/polyface-farms/)
+12:08:18	Error: 	"Bad Request: invalid header name" (400) at link www.polyfacefarms.com/ (from https://temeats.com/polyface-farms/)
+12:08:18	Error: 	"Bad Request: invalid header name" (400) at link www.polyfacefarms.com/visit/ (from https://temeats.com/polyface-farms/)
+12:08:18	Error: 	"Bad Request: invalid header name" (400) at link www.polyfacefarms.com/food-sales/ (from https://temeats.com/polyface-farms/)
+12:08:18	Error: 	"Bad Request: invalid header name" (400) at link www.polyfacefarms.com/dining/ (from https://temeats.com/polyface-farms/)
+12:08:18	Error: 	"Bad Request: invalid header name" (400) at link www.polyfacefarms.com/retail-stores/ (from https://temeats.com/polyface-farms/)
+12:08:18	Error: 	"Bad Request: invalid header name" (400) at link www.polyfacefarms.com/production/ (from https://temeats.com/polyface-farms/)
+12:08:18	Error: 	"Bad Request: invalid header name" (400) at link www.polyfacefarms.com/farm-tours/ (from https://temeats.com/polyface-farms/)
+12:08:18	Error: 	"Bad Request: invalid header name" (400) at link www.polyfacefarms.com/speaking-protocol/ (from https://temeats.com/polyface-farms/)
+12:08:18	Warning: 	Link https://temeats.com/category/uncategorized/?s= not scanned (follow robots meta tag)
