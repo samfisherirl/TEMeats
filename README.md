@@ -1,6 +1,7 @@
 # TEMeats
 TEMeats
-https://htmlpreview.github.io/?https://github.com/samfisherirl/TEMeats/blob/main/index.html
+https://htmlpreview.github.io/?https://github.com/samfisherirl/TEMeats/blob/main/index-ecobeef.html
+
 
 
 website host location
