@@ -1929,11 +1929,11 @@ a.mfn-link-6:before {
 #Top_bar .menu>li.current-page-ancestor>a,
 #Top_bar .menu>li.current_page_ancestor>a,
 #Top_bar .menu>li.hover>a {
-    color: #342111;
+    color: #ffffff;
 }
 
 #Top_bar .menu>li a:after {
-    background: #342111;
+    background: #502c0f;
 }
 
 .menuo-arrows #Top_bar .menu>li.submenu>a>span:not(.description)::after {
@@ -2645,6 +2645,7 @@ h2 {
     line-height: 50px;
     font-weight: 500;
     letter-spacing: 0px;
+    color: #e8e8e8;
 }
 
 h3 {
@@ -3119,7 +3120,7 @@ h6 {
 @media only screen and (min-width: 1240px) {
     .section_wrapper,
     .container {
-        max-width: 1060px;
+        max-width: 80%;
     }
 
     .layout-boxed.header-boxed #Top_bar.is-sticky {

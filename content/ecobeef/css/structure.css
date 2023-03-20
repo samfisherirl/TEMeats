@@ -311,6 +311,7 @@ body:not(.template-slider) #Content {
 .row,
 .clearfix {
     zoom: 1;
+    min-width: 310px;
 }
 
 /* You can also use a <br class="clear" /> to clear columns */
