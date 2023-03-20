@@ -1896,7 +1896,7 @@ a.mfn-link-6:before {
 #Header_creative,
 #Top_bar #menu,
 .sticky-tb-color #Top_bar.is-sticky {
-    background-color: #fff;
+    background-color: #797979;
 }
 
 #Top_bar .wpml-languages a.active,
@@ -1905,7 +1905,7 @@ a.mfn-link-6:before {
 }
 
 #Top_bar .top_bar_right:before {
-    background-color: #e3e3e3;
+    background-color: #2c2c2c;
 }
 
 #Header .top_bar_right {
@@ -2542,6 +2542,7 @@ html {
 #Wrapper,
 #Content {
     background-color: #fafafa !important;
+    background-image: linear-gradient(354deg, #000 32%, rgb(5, 54, 2) 82%);
 }
 
 body,
@@ -2651,6 +2652,7 @@ h3 {
     line-height: 38px;
     font-weight: 500;
     letter-spacing: 0px;
+    color: #000000;
 }
 
 h4 {
@@ -2658,6 +2660,7 @@ h4 {
     line-height: 32px;
     font-weight: 500;
     letter-spacing: 0px;
+    color: #ffffff;
 }
 
 h5 {
