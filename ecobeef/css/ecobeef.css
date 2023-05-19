@@ -2205,7 +2205,7 @@ h6 {
 		width: calc(100% - 67px)!important;
 	}
 	.section_wrapper .mcb-wrap, .section_wrapper .column, .container .column, .sections_group, .four.columns {
-		margin: 0;
+		margin: auto;
 		width: 100%!important;
 		clear: both;
 	}

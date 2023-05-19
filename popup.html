@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Popup Form</title>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<style>
+		.popup {
+			display: none;
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			background-color: #fff;
+			border: 1px solid #000;
+			padding: 20px;
+			z-index: 999;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+			max-width: 500px;
+			width: 100%;
+			max-height: 80%;
+			overflow: auto;
+		}
+
+		.popup h2 {
+			margin-top: 0;
+		}
+
+		.close {
+			position: absolute;
+			top: 5px;
+			right: 5px;
+			font-size: 24px;
+			font-weight: bold;
+			color: #000;
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+
+	<!-- Popup Form HTML -->
+	<div id="popup" class="popup">
+		<span class="close">&times;</span>
+		<h2>Popup Form</h2>
+		<form id="popup-form">
+			<label for="name">Name:</label>
+			<input type="text" name="name" id="name">
+
+			<label for="email">Email:</label>
+			<input type="email" name="email" id="email">
+
+			<label for="message">Message:</label>
+			<textarea name="message" id="message"></textarea>
+
+			<input type="submit" value="Submit">
+		</form>
+	</div>
+
+	<!-- Add a button to open the form -->
+	<button id="open-popup">Open Form</button>
+
+	<!-- JavaScript to handle the popup form and form submission -->
+	<script>
+		$(document).ready(function(){
+			// Open the popup form when the "Open Form" button is clicked
+			$('#open-popup').click(function(){
+				$('#popup').fadeIn();
+			});
+
+			// Close the popup form when the "X" button is clicked
+			$('.close').click(function(){
+				$('#popup').fadeOut();
+			});
+
+			// Handle form submission
+			$('#popup-form').submit(function(e){
+				e.preventDefault(); // Prevent the form from submitting normally
+
+				// Get form data
+				var name = $('#name').val();
+				var email = $('#email').val();
+				var message = $('#message').val();
+
+				// Send form data to PHP script for email forwarding
+				$.ajax({
+					type: 'POST',
+					url: 'send-email.php',
+					data: {
+						name: name,
+						email: email,
+						message: message
+					},
+					success: function(response){
+						// Display success message and close the form
+						alert('Message sent successfully!');
+						$('#popup').fadeOut();
+					},
+					error: function(xhr, status, error){
+						// Display error message
+						alert('Error sending message: ' + error);
+					}
+				});
+			});
+		});
+	</script>
+
+</body>
+</html>
