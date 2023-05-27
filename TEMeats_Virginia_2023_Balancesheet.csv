@@ -1,0 +1,90 @@
+﻿T&E Meats,
+Balance Sheet,
+"As of December 31, 2023",
+,
+,Total
+ASSETS,
+   Current Assets,
+      Bank Accounts,
+         1005 SC Truist 4436,"6,582.10  "
+         1006 SC Truist 7484,"33,736.02  "
+         1010 HM Truist 8016,"103,358.23  "
+         1015 Truist Checking 8008,666.77  
+      Total Bank Accounts,"$144,343.12  "
+      Accounts Receivable,
+         1200 Accounts Receivable Trade,"36,720.15  "
+      Total Accounts Receivable,"$36,720.15  "
+      Other Current Assets,
+         1110 Employee Loans,430.61  
+         1150 Undeposited Funds,"7,333.47  "
+         1160 Prepaid Insurance,"17,997.64  "
+         1172 Prepaid Other Expenses,-263.42  
+      Total Other Current Assets,"$25,498.30  "
+   Total Current Assets,"$206,561.57  "
+   Fixed Assets,
+      1540 Computer Equipment,274.02  
+      1550 Office Equipment,380.35  
+   Total Fixed Assets,$654.37  
+TOTAL ASSETS,"$207,215.94  "
+LIABILITIES AND EQUITY,
+   Liabilities,
+      Current Liabilities,
+         Accounts Payable,
+            2000 Accounts Payable,"41,478.53  "
+         Total Accounts Payable,"$41,478.53  "
+         Credit Cards,
+            1030 BB&T Credit Card 1183,905.29  
+            1032 Truist VISA 7719,702.94  
+         Total Credit Cards,"$1,608.23  "
+         Other Current Liabilities,
+"            2015 Note Payable, Iverson","-3,759.70  "
+            2400 Payroll Liabilities,
+               2405 Accrued Payroll,"-17,641.40  "
+               2410 Fed WH and FICA Payable,0.00  
+               2420 VA WH Payable,"2,331.02  "
+               2430 FUTA Payable,84.26  
+               2440 VEC Payable,28.04  
+               2450 Garnishments Payable,
+                  23151484500 Daniel Sherman Court Garnishment,-182.69  
+               Total 2450 Garnishments Payable,-$182.69  
+               2480 2480 Simple IRA,"-5,968.01  "
+               2481 Child Support 1,734.28  
+                  2490A Davis - 0001,-734.28  
+               Total 2481 Child Support 1,$0.00  
+               2485 Child Support 2,"1,058.76  "
+                  2490B Davis 8882,"-1,181.14  "
+               Total 2485 Child Support 2,-$122.38  
+               2490 Child Support,"1,102.36  "
+                  0003168566,553.75  
+                  0003374947,468.40  
+                  0003643200,842.20  
+                  0004970610,306.90  
+                  2494 Sherman 4712,"-1,102.36  "
+                  2495 Turner 0610,-306.90  
+                  2496 Turner 3200,-842.20  
+                  2497 Turner 4947,-468.40  
+                  2498 Turner 8566,-553.75  
+                  2499 Turner 9195,-60.00  
+               Total 2490 Child Support,-$60.00  
+               Child Support 000329915,60.00  
+               Court Debt Collections,182.69  
+               SIMPLE IRA,"8,256.20  "
+            Total 2400 Payroll Liabilities,"-$13,032.27  "
+            2605 Direct Deposit Payable,0.00  
+         Total Other Current Liabilities,"-$16,791.97  "
+      Total Current Liabilities,"$26,294.79  "
+      Long-Term Liabilities,
+         2609 Note Payable Polyface,"-40,036.01  "
+         2612 Note Payable HYG Financial,419.57  
+      Total Long-Term Liabilities,"-$39,616.44  "
+   Total Liabilities,"-$13,321.65  "
+   Equity,
+      3000 Opening Balance Equity,"137,178.09  "
+      3099 Retained Earnings,"-14,742.23  "
+      Net Income,"98,101.73  "
+   Total Equity,"$220,537.59  "
+TOTAL LIABILITIES AND EQUITY,"$207,215.94  "
+,
+,
+,
+"Monday, May 22, 2023 08:31:50 AM GMT-7 - Accrual Basis",
