@@ -1,0 +1,188 @@
+﻿Name,Product/Service type,Description,Sales price,Purchase price,Inventory start date,Quantity on hand,Deleted
+#I-199 Miscellaneous,Service,#I-199 Miscellaneous,$0.00,--,--,--,No
+(discounted) Breakfast Seasoned 1oz links Sausage,Service,(discounted) Breakfast Seasoned 1oz links Sausage,$1.50,--,--,--,No
+(discounted) Breakfast Seasoned 2oz links Sausage,Service,(discounted) Breakfast Seasoned 2oz links Sausage,$1.50,--,--,--,No
+(discounted) Breakfast Seasoned 4oz links Sausage,Service,(discounted) Breakfast Seasoned 4oz links Sausage,$1.50,--,--,--,No
+(discounted) Breakfast Seasoned Loose Sausage,Service,(discounted) Breakfast Seasoned Loose Sausage,$0.75,--,--,--,No
+(discounted) Breakfast Seasoned Patties Sausage,Service,(discounted) Breakfast Seasoned Patties Sausage,$1.50,--,--,--,No
+(discounted) Chorizo 1oz Links Seasoned Sausage,Service,(discounted) Chorizo 1oz Links Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Chorizo 2oz Links Seasoned Sausage,Service,(discounted) Chorizo 2oz Links Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Chorizo 4oz Links Seasoned Sausage,Service,(discounted) Chorizo 4oz Links Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Chorizo Loose Seasoned Sausage,Service,(discounted) Chorizo Loose Seasoned Sausage,$1.00,--,--,--,No
+(discounted) Chorizo Patties Seasoned Sausage,Service,(discounted) Chorizo Patties Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Customer Spice Seasoning- 1oz links,Service,(discounted) Customer Spice Seasoning- 1oz links,$1.50,--,--,--,No
+(discounted) Customer Spice Seasoning- 2oz links,Service,(discounted) Customer Spice Seasoning- 2oz Links,$1.50,--,--,--,No
+(discounted) Customer Spice Seasoning- 4oz Links,Service,(discounted) Customer Spice Seasoning- 4oz links,$1.50,--,--,--,No
+(discounted) Customer Spice Seasoning- Loose,Service,(discounted) Customer Spice Seasoning- Loose,$0.75,--,--,--,No
+(discounted) Customer Spice Seasoning- Patties,Service,(discounted) Customer Spice Seasoning- Patties,$1.50,--,--,--,No
+(discounted) Garlic Bratwurst 1oz Links Seasoned Sausage,Service,(discounted) Garlic Bratwurst 1oz Links Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Garlic Bratwurst 2oz Links Seasoned Sausage,Service,(discounted) Garlic Bratwurst 2oz Links Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Garlic Bratwurst 4oz Links Seasoned Sausage,Service,(discounted) Garlic Bratwurst 4oz Links Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Garlic Bratwurst Loose Seasoned Sausage,Service,(discounted) Garlic Bratwurst Loose Seasoned Sausage,$1.00,--,--,--,No
+(discounted) Garlic Bratwurst Patties Seasoned Sausage,Service,(discounted) Garlic Bratwurst Patties Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Hot Italian 1oz Links Seasoned Sausage,Service,(discounted) Hot Italian 1oz Links Seasoned Sausage,$1.50,--,--,--,No
+(discounted) Hot Italian 2oz Links Seasoned Sausage,Service,(discounted) Hot Italian 2oz Links Seasoned Sausage,$1.50,--,--,--,No
+(discounted) Hot Italian 4oz Links Seasoned Sausage,Service,(discounted) Hot Italian 4oz Links Seasoned Sausage,$1.50,--,--,--,No
+(discounted) Hot Italian Loose Seasoned Sausage,Service,(discounted) Hot Italian Loose Seasoned Sausage,$0.75,--,--,--,No
+(discounted) Hot Italian Patties Seasoned Sausage,Service,(discounted) Hot Italian Patties Seasoned Sausage,$1.50,--,--,--,No
+(discounted) Kill/Split Only,Service,--,$65.00,--,--,--,No
+(discounted) Mild Italian 1oz Links Seasoned Sausage,Service,(discounted) Mild Italian 1oz Links Seasoned Sausage,$1.50,--,--,--,No
+(discounted) Mild Italian 2oz Links Seasoned Sausage,Service,(discounted) Mild Italian 2oz Links Seasoned Sausage,$1.50,--,--,--,No
+(discounted) Mild Italian 4oz Links Seasoned Sausage,Service,(discounted) Mild Italian 4oz Links Seasoned Sausage,$1.50,--,--,--,No
+(discounted) Mild Italian Loose Seasoned Sausage,Service,(discounted) Mild Italian Loose Seasoned Sausage,$0.75,--,--,--,No
+(discounted) Mild Italian Patties Seasoned Sausage,Service,(discounted) Mild Italian Patties Seasoned Sausage,$1.50,--,--,--,No
+(discounted) Sweet Italian 1oz Links Seasoned Sausage,Service,(discounted) Sweet Italian 1oz Links Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Sweet Italian 2oz Links Seasoned Sausage,Service,(discounted) Sweet Italian 2oz Links Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Sweet Italian 4oz Links Seasoned Sausage,Service,(discounted) Sweet Italian 4oz Links Seasoned Sausage,$1.75,--,--,--,No
+(discounted) Sweet Italian Loose Seasoned Sausage,Service,(discounted) Sweet Italian Loose Seasoned Sausage,$1.00,--,--,--,No
+(discounted) Sweet Italian Patties Seasoned Sausage,Service,(discounted) Sweet Italian Patties Seasoned Sausage,$1.75,--,--,--,No
+(discounted) T&E Classic 1oz Links Seasoned Sausage,Service,(discounted) T&E Classic 1oz Links Seasoned Sausage,$1.50,--,--,--,No
+(discounted) T&E Classic 2oz Links Seasoned Sausage,Service,(discounted) T&E Classic 2oz Links Seasoned Sausage,$1.50,--,--,--,No
+(discounted) T&E Classic 4oz Links Seasoned Sausage,Service,(discounted) T&E Classic 4oz Links Seasoned Sausage,$1.50,--,--,--,No
+(discounted) T&E Classic Loose Seasoned Sausage,Service,(discounted) T&E Classic Loose Seasoned Sausage,$0.75,--,--,--,No
+(discounted) T&E Classic Patties Seasoned Sausage,Service,(discounted) T&E Classic Patties Seasoned Sausage,$1.50,--,--,--,No
+10# Box Rate,Service,Charged per lb,--,--,--,--,No
+10lb Ground Lamb Vacuum Packed,Service,10lb Ground Lamb Vacuum Packed,$0.05,--,--,--,No
+1lb Ground Lamb Vacuum Packed,Service,1lb Ground Lamb Vacuum Packed,$0.20,--,--,--,No
+2lb Ground Lamb Vacuum Packed,Service,2lb Ground Lamb Vacuum Packed,$0.20,--,--,--,No
+5lb Ground Lamb Vacuum Packed,Service,5lb Ground Lamb Vacuum Packed,$0.05,--,--,--,No
+Bad Debts,Service,--,$0.00,--,--,--,No
+Beef 1/8 Fee (per 1/8),Service,Beef 1/8 Fee (per 1/8),$25.00,--,--,--,No
+Beef 10lb Ground Vacuum Packed,Service,Beef 10lb Ground Vacuum Packed,$0.05,--,--,--,No
+Beef 1lb Ground Vacuum Packed,Service,Beef 1lb Ground Vacuum Packed,$0.20,--,--,--,No
+Beef 2lb Ground Vacuum Packed,Service,Beef 2lb Ground Vacuum Packed,$0.20,--,--,--,No
+Beef 5lb Ground Vacuum Packed,Service,Beef 5lb Ground Vacuum Packed,$0.05,--,--,--,No
+Beef Collect and Pack Organs,Service,Collect and Pack Organs- charged per lb,$0.95,--,--,--,No
+Beef Cube Steak,Service,Cube Steak,$1.00,--,--,--,No
+Beef Cut and Pack (W & L),Service,Beef Cut and Pack + 0.20 W&L,$1.15,--,--,--,No
+Beef Cut and Pack Custom (NFS),Service,Beef Cut and Pack Custom (NFS),$0.95,--,--,--,No
+Beef Cut Into Primals (8pc),Service,Beef Cut Into Primals (8pc)- Charged per lb.,$0.30,--,--,--,No
+Beef Fajita Meat,Service,Fajita Meat,$0.50,--,--,--,No
+Beef Fat/Suet Grinding,Service,Beef Fat/Suet Grinding,$0.50,--,--,--,No
+Beef Kabob Meat,Service,Kabob Meat,$0.50,--,--,--,No
+Beef Kill Fee,Service,Beef Kill Fee,$75.00,--,--,--,No
+Beef Modern Boneless Cut & Pack (W & L),Service,"Boned Out Chuck, Premium Steaks",$1.25,--,--,--,No
+Beef Modern Boneless Cut & Pack Custom (NFS),Service,"Boned Out Chuck, Premium Steaks",$1.05,--,--,--,No
+Beef Over 30 Months,Service,Beef Over 30 Months,$50.00,--,--,--,No
+Beef Quartering Fee,Service,Beef Quartering Fee,$0.20,--,--,--,No
+Beef Restaurant Cut (W & L),Service,"Partially Processed, No Grinding",$0.95,--,--,--,No
+Beef Restaurant Cut Custom (NFS),Service,"Partially Processed, No Grinding",$0.75,--,--,--,No
+Beef Stew Meat,Service,Stew Meat,$0.50,--,--,--,No
+Beef Thin Sliced Cheesesteak,Service,Thin Sliced Cheesesteak,$1.00,--,--,--,No
+Boxing Service,Service,Boxing Service,$0.50,--,--,--,No
+Breakfast Seasoned 1oz Links Pork Sausage,Service,Breakfast Seasoned 1oz Links Pork Sausage,$1.75,--,--,--,No
+Breakfast Seasoned 2oz Links Pork Sausage,Service,Breakfast Seasoned 2oz Links Pork Sausage,$1.75,--,--,--,No
+Breakfast Seasoned 4oz Links Pork Sausage,Service,Breakfast Seasoned 4oz Links Pork Sausage,$2.00,--,--,--,No
+Breakfast Seasoned Loose Pork Sausage,Service,Breakfast Seasoned Loose Pork Sausage,$1.00,--,--,--,No
+Breakfast Seasoned Patties Pork Sausage,Service,Breakfast Seasoned Patties Pork Sausage,$2.00,--,--,--,No
+Chorizo Seasoned 1oz Links Pork Sausage,Service,Chorizo Seasoned 1oz Links Pork Sausage,$2.00,--,--,--,No
+Chorizo Seasoned 2oz Links Pork Sausage,Service,Chorizo Seasoned 2oz Links Pork Sausage,$2.00,--,--,--,No
+Chorizo Seasoned 4oz Links Pork Sausage,Service,Chorizo Seasoned 4oz Links Pork Sausage,$2.25,--,--,--,No
+Chorizo Seasoned Loose Pork Sausage,Service,Chorizo Seasoned Loose Pork Sausage,$1.25,--,--,--,No
+Chorizo Seasoned Patties Pork Sausage,Service,Chorizo Seasoned Patties Pork Sausage,$2.25,--,--,--,No
+Collect & Pack Organs (per hog),Service,Collect & Pack Organs,$5.00,--,--,--,No
+Condemned BEEF Disposal Fee,Service,per animal,$75.00,--,--,--,No
+Condemned HOG Disposal Fee,Service,per animal,$60.00,--,--,--,No
+Cured & Smoked Bacon,Service,Traditional Nitrite Cure,$3.00,--,--,--,No
+Cured & Smoked Canadian Bacon,Service,Traditional Nitrite Cure,$3.00,--,--,--,No
+Cured & Smoked Ham,Service,Traditional Nitrite Cure,$3.00,--,--,--,No
+Cured & Smoked Hocks,Service,Traditional Nitrite Cure,$3.00,--,--,--,No
+Cured & Smoked Jowl,Service,Traditional Nitrite Cure,$3.00,--,--,--,No
+Custom Processing,Service,--,$0.00,--,--,--,No
+Cut Sheet Not Tuned In By Slaughter Date,Service,per animal,$15.00,--,--,--,No
+Dry-Aging >2 weeks,Service,Hanging Longer Than 2 Weeks,$15.00,--,--,--,No
+Exotic Kill Fee,Service,Exotic Kill Fee,$120.00,--,--,--,No
+Frenching Charge,Service,Charged per side (beef and pork),$10.00,--,--,--,No
+Garlic Bratwurst Seasoned 1oz Links Pork Sausage,Service,Garlic Bratwurst Seasoned 1oz Links Pork Sausage,$2.00,--,--,--,No
+Garlic Bratwurst Seasoned 2oz Links Pork Sausage,Service,Garlic Bratwurst Seasoned 2oz Links Pork Sausage,$2.00,--,--,--,No
+Garlic Bratwurst Seasoned 4oz Links Pork Sausage,Service,Garlic Bratwurst Seasoned 4oz Links Pork Sausage,$2.25,--,--,--,No
+Garlic Bratwurst Seasoned Loose Pork Sausage,Service,Garlic Bratwurst Seasoned Loose Pork Sausage,$1.25,--,--,--,No
+Garlic Bratwurst Seasoned Patties Pork Sausage,Service,Garlic Bratwurst Seasoned Patties Pork Sausage,$2.25,--,--,--,No
+Ground Beef Patties,Service,Ground Beef Patties,$1.50,--,--,--,No
+Hide Removal For Customer,Service,Charged per hide,$15.00,--,--,--,No
+Hot Italian Seasoned 1oz Links Pork Sausage,Service,Hot Italian Seasoned 1oz Links Pork Sausage,$1.75,--,--,--,No
+Hot Italian Seasoned 2oz Links Pork Sausage,Service,Hot Italian Seasoned 2oz Links Pork Sausage,$1.75,--,--,--,No
+Hot Italian Seasoned 4oz Links Pork Sausage,Service,Hot Italian Seasoned 4oz Links Pork Sausage,$2.00,--,--,--,No
+Hot Italian Seasoned Loose Pork Sausage,Service,Hot Italian Seasoned Loose Pork Sausage,$1.00,--,--,--,No
+Hot Italian Seasoned Patties Pork Sausage,Service,Hot Italian Seasoned Patties Pork Sausage,$2.00,--,--,--,No
+Lamb Fajita Meat,Service,Lamb Fajita Meat,$0.50,--,--,--,No
+Lamb Kabob Meat,Service,Lamb Kabob Meat,$0.50,--,--,--,No
+Lamb Organs,Service,Charged per animal,$5.00,--,--,--,No
+Lamb Stew Meat,Service,Lamb Stew Meat,$0.50,--,--,--,No
+Lamb-Cut and Pack,Service,Charged per animal. Does not include value added services.,$140.00,--,--,--,No
+Lamb-Kill Only,Service,Lamb Kill-Only,$55.00,--,--,--,No
+Late Pick Up (per animal per day),Service,Storage Fee for product not picked up longer than 7 days,$15.00,--,--,--,No
+Mild Italian Seasoned 1oz Links Pork Sausage,Service,Mild Italian Seasoned 1oz Links Pork Sausage,$1.75,--,--,--,No
+Mild Italian Seasoned 2oz Links Pork Sausage,Service,Mild Italian Seasoned 2oz Links Pork Sausage,$1.75,--,--,--,No
+Mild Italian Seasoned 4oz Links Pork Sausage,Service,Mild Italian Seasoned 4oz Links Pork Sausage,$2.00,--,--,--,No
+Mild Italian Seasoned Loose Pork Sausage,Service,Mild Italian Seasoned Loose Pork Sausage,$1.00,--,--,--,No
+Mild Italian Seasoned Patties Pork Sausage,Service,Mild Italian Seasoned Patties Pork Sausage,$2.00,--,--,--,No
+One Item Per Pack,Service,Charged per half (beef) and per whole (hog),$15.00,--,--,--,No
+Opening Balance Equity,Service,--,$1.00,--,--,--,No
+Pork Cube Steak,Service,Pork Cube Steak,$1.00,--,--,--,No
+Pork Cut & Pack (W & L),Service,Pork Weigh & Label,$1.10,--,--,--,No
+Pork Cut & Pack Custom (NFS),Service,Pork Cut & Pack,$0.90,--,--,--,No
+Pork Cut Into Primals (6pc),Service,Pork Cut Into Primals (6pc),$0.25,--,--,--,No
+Pork Fajita Meat,Service,Pork Fajita Meat,$0.50,--,--,--,No
+Pork Fat Grinding,Service,Pork Fat Grinding,$0.40,--,--,--,No
+Pork Halving Fee,Service,Pork Halving Fee (per half),$15.00,--,--,--,No
+Pork Kabob Meat,Service,Pork Kabob Meat,$0.50,--,--,--,No
+Pork Kill and Scald,Service,Kill/Scald- Whole,$110.00,--,--,--,No
+Pork Kill Fee,Service,Pork Kill Fee,$60.00,--,--,--,No
+"Pork Kill, Scald - Cut Into Primals",Service,"Pork Kill, Scald - Cut Into Primals",$150.00,--,--,--,No
+"Pork Kill, Scald, & Split/Butterfly",Service,"Pork Kill, Scald, & Split/Butterfly",$125.00,--,--,--,No
+Pork Kill/Split Only,Service,Pork Kill/Split Only,$75.00,--,--,--,No
+Pork Restaurant Cut (W & L),Service,"Partially Processed, No Grinding",$0.90,--,--,--,No
+Pork Restaurant Cut Custom (NFS),Service,"Partially Processed, No Grinding",$0.70,--,--,--,No
+Pork Stew Meat,Service,Pork Stew Meat,$0.50,--,--,--,No
+Pregnant Animal Charge,Service,per animal,$50.00,--,--,--,No
+Rent,Service,Rent Income,$0.00,--,--,--,No
+Rent Income,Service,Rent Income,$0.00,--,--,--,No
+Returned Check Fee-per check,Service,Returned Check Fee,$35.00,--,--,--,No
+Sales Tax-Sales,Service,Sales Tax,$0.05,--,--,--,No
+Services,Service,--,$0.00,--,--,--,No
+Specimen Surcharge,Service,Specimen Collection- per animal,$25.00,--,--,--,No
+Sweet Italian Seasoned 1oz Links Pork Sausage,Service,Sweet Italian Seasoned 1oz Links Pork Sausage,$2.00,--,--,--,No
+Sweet Italian Seasoned 2oz Links Pork Sausage,Service,Sweet Italian Seasoned 2oz Links Pork Sausage,$2.00,--,--,--,No
+Sweet Italian Seasoned 4oz Links Pork Sausage,Service,Sweet Italian Seasoned 4oz Links Pork Sausage,$2.25,--,--,--,No
+Sweet Italian Seasoned Loose Pork Sausage,Service,Sweet Italian Seasoned Loose Pork Sausage,$1.25,--,--,--,No
+Sweet Italian Seasoned Patties Pork Sausage,Service,Sweet Italian Seasoned Patties Pork Sausage,$2.25,--,--,--,No
+T&E Classic Seasoned 1oz Links Pork Sausage,Service,T&E Classic Seasoned 1oz Links Pork Sausage,$1.75,--,--,--,No
+T&E Classic Seasoned 2oz Links Pork Sausage,Service,T&E Classic Seasoned 2oz Links Pork Sausage,$1.75,--,--,--,No
+T&E Classic Seasoned 4oz Links Pork Sausage,Service,T&E Classic Seasoned 4oz Links Pork Sausage,$2.00,--,--,--,No
+T&E Classic Seasoned Loose Pork Sausage,Service,T&E Classic Seasoned Loose Pork Sausage,$1.00,--,--,--,No
+T&E Classic Seasoned Patties Pork Sausage,Service,T&E Classic Seasoned Patties Pork Sausage,$2.00,--,--,--,No
+T&E Meats - Beef Back Fat,Service,Charged per lb,$2.00,--,--,--,No
+T&E Meats - Beef Bones,Service,charged per lb,$1.50,--,--,--,No
+T&E Meats - Beef Cheeks,Service,charged per lb,$5.00,--,--,--,No
+T&E Meats - Beef Heart,Service,Charged per lb,$5.00,--,--,--,No
+T&E Meats - Beef Kidney Fat/Suet,Service,charged per lb,$2.00,--,--,--,No
+T&E Meats - Beef Liver,Service,Charged per lb,$3.00,--,--,--,No
+T&E Meats - Beef Organ Meat (other),Service,"Sweetbreads, Spleen, etc. (Charged per PIECE)",$5.00,--,--,--,No
+T&E Meats - Beef Tongue,Service,Charged per lb,$5.00,--,--,--,No
+T&E Meats - Pork Back Fat,Service,charged per lb,$2.00,--,--,--,No
+T&E Meats - Pork Bones,Service,charged per lb,$1.50,--,--,--,No
+T&E Meats - Pork Feet,Service,Charged per lb,$3.00,--,--,--,No
+T&E Meats - Pork Heart,Service,Charged per PIECE,$3.00,--,--,--,No
+T&E Meats - Pork Kidney Fat,Service,charged per lb,$2.00,--,--,--,No
+T&E Meats - Pork Liver,Service,Charged per lb,$3.00,--,--,--,No
+T&E Meats - Pork Organ Meat (other),Service,Charged per PIECE,$5.00,--,--,--,No
+T&E Meats - Pork Skin,Service,Charged Per lb,$3.00,--,--,--,No
+T&E Meats - Pork Tongue,Service,charged per PIECE,$3.00,--,--,--,No
+T&E Oxtail,Service,--,$4.00,--,--,--,No
+Thin Sliced Pork Belly,Service,Thin Sliced Pork Belly,$1.00,--,--,--,No
+Tray Packing Cuts,Service,.65 x Carcass Weight - Ground Product,$0.20,--,--,--,No
+Truck Rental,Service,--,$100.00,--,--,--,No
+Uncured & Smoked Bacon,Service,Vegetable Celery Cure,$3.50,--,--,--,No
+Uncured & Smoked Canadian Bacon,Service,Vegetable Celery Cure,$3.50,--,--,--,No
+Uncured & Smoked Ham,Service,Vegetable Celery Cure,$3.50,--,--,--,No
+Uncured & Smoked Hocks,Service,Vegetable Celery Cure,$3.50,--,--,--,No
+Uncured & Smoked Jowl,Service,Vegetable Celery Cure,$3.50,--,--,--,No
+Unscheduled Animal Drop-Off,Service,per animal,$100.00,--,--,--,No
+Unseasoned 1 lb Ground Pork,Service,Unseasoned 1 lb Ground Pork,$0.40,--,--,--,No
+Unseasoned 10 lb Ground Pork,Service,Unseasoned 10 lb Ground Pork,$0.40,--,--,--,No
+Unseasoned 2 lb Ground Pork,Service,Unseasoned 2 lb Ground Pork,$0.40,--,--,--,No
+Unseasoned 5 lb Ground Pork,Service,Unseasoned 5 lb Ground Pork,$0.40,--,--,--,No
+Value Added Services:Error Credit,Service,--,--,--,--,--,No
+Vehicle:Truck Rental,Service,Truck Rental,$100.00,--,--,--,No
+Wholesale,Service,--,$0.00,--,--,--,No
